@@ -1,7 +1,15 @@
 # VueJS_todolist
 VueJS_todolist
-# How to use 
-1. npm install
-2. npm run serve
+## Quick Start
 
+```bash
+# Install dependencies
+npm install
+
+# Serve on localhost:8080
+npm run serve
+
+# Build for production
+npm run build
+```
 
